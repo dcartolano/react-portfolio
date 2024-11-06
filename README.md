@@ -8,8 +8,6 @@ Through this project, I learned more about React, React Router, uisng Vite to cr
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -17,7 +15,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-Copy the SSH Key from the [GitHub Repository](https://github.com/dcartolano/react-portfolio) and perform a git clone into the directory of your choice. Open in VS Code or similar program. In the terminal, run "git i" to download all relevant node modules.
+Copy the SSH Key from the [GitHub Repository](https://github.com/dcartolano/react-portfolio) and perform a git clone into the directory of your choice. Open in VS Code or similar program. In the terminal, run "npm i" to download all relevant node modules.
 
 ## Usage
 
